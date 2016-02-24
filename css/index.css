@@ -284,8 +284,7 @@
 	opacity: 0.35;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=35)";
 	filter: alpha(opacity=35);
-	background: linear-gradient(to bottom right, black 0%, grey 100%), url("../images/datavizrep.jpg") no-repeat center bottom;
-	background-blend-mode: screen;
+	background: transparent url("../images/datavizrep.jpg") no-repeat center bottom;
 	background-size: cover;
 }
 
