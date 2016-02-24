@@ -1,0 +1,74 @@
+<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.hoborg.com/starters/04" resolutions="1x" timestamp="1456274115634">
+  <folder name="css">
+    <file name="site_global.css" crc="303421102"/>
+    <file name="master_a-master.css" crc="4090384421" ref="index"/>
+    <file name="index.css" crc="3931468346" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="409338010" ref="phone>index:index"/>
+    <file name="museutils.js" crc="4190794036" ref="phone>index:index"/>
+    <file name="whatinput.js" crc="84559013" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="349565855" ref="phone>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3792042506" ref="phone>index:index"/>
+    <file name="pie.js" crc="3827607177" ref="phone>index:index"/>
+    <file name="webpro.js" crc="488283310" ref="phone>index:index"/>
+    <file name="form_check.php" crc="430210585" ref="phone>index:index"/>
+    <file name="form_throttle.php" crc="282343929" ref="phone>index:index"/>
+    <file name="form_process.php" crc="339897355" ref="phone>index:index"/>
+    <file name="form-u1840.php" crc="4023130124" ref="phone>index"/>
+    <file name="jquery.scrolleffects.js" crc="3837774061" ref="phone>index:index"/>
+    <file name="museredirect.js" crc="3985760531" ref="index"/>
+    <file name="musewpslideshow.js" crc="248860441" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3898476799" ref="index"/>
+    <file name="touchswipe.js" crc="4191887251" ref="index"/>
+    <file name="form-u340.php" crc="4152051493" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="bkg_01.jpg" crc="4249309889" ref="phone>index"/>
+    <file name="speaker_01-u973-fr.png" crc="3807737923" ref="phone>index:index"/>
+    <file name="speaker_03-u971-fr.png" crc="4220311394" ref="phone>index"/>
+    <file name="speaker_02-u972-fr.png" crc="287574460" ref="phone>index"/>
+    <file name="gallery_03-u710-fr.png" crc="15474422" ref="phone>index:index"/>
+    <file name="gallery_02-u711-fr.png" crc="114773680" ref="phone>index:index"/>
+    <file name="gallery_01-u712-fr.png" crc="3862423621" ref="phone>index:index"/>
+    <file name="u1864-17.png" crc="532403934" ref="phone>index"/>
+    <file name="u1864-17-r.png" crc="235939021" ref="phone>index"/>
+    <file name="u1864-17-m.png" crc="235939021" ref="phone>index"/>
+    <file name="u1864-17-fs.png" crc="532403934" ref="phone>index"/>
+    <file name="checkboxuncheckedrollover.jpg" crc="3898835355" ref="phone>index:index"/>
+    <file name="checkboxuncheckedmousedown.jpg" crc="4019589203" ref="phone>index:index"/>
+    <file name="checkboxchecked.jpg" crc="3760363524" ref="phone>index:index"/>
+    <file name="checkboxcheckedrollover.jpg" crc="3914243265" ref="phone>index:index"/>
+    <file name="checkboxcheckedmousedown.jpg" crc="350609565" ref="phone>index:index"/>
+    <file name="arrows-mn_arrow_right.png" crc="4062137678" ref="phone>index:index"/>
+    <file name="u1786.png" crc="3830243537" ref="phone>index"/>
+    <file name="u1786-r.png" crc="120001427" ref="phone>index"/>
+    <file name="u1788.png" crc="3807571440" ref="phone>index"/>
+    <file name="u1788-r.png" crc="4232211895" ref="phone>index"/>
+    <file name="u1790.png" crc="192037712" ref="phone>index"/>
+    <file name="u1790-r.png" crc="221696330" ref="phone>index"/>
+    <file name="u157-6.png" crc="370328795" ref="index"/>
+    <file name="datavizrep.jpg" crc="507164169" ref="index"/>
+    <file name="speaker_02-u214-fr.png" crc="287574460" ref="index"/>
+    <file name="speaker_03-u1674-fr.png" crc="4220311394" ref="index"/>
+    <file name="arrows-mn_close.png" crc="236761104" seo="true" ref="index"/>
+    <file name="u347-17.png" crc="4069240070" ref="index"/>
+    <file name="u347-17-r.png" crc="281374165" ref="index"/>
+    <file name="u347-17-m.png" crc="281374165" ref="index"/>
+    <file name="u347-17-fs.png" crc="4069240070" ref="index"/>
+    <file name="u1774.png" crc="3830243537" ref="index"/>
+    <file name="u1774-r.png" crc="120001427" ref="index"/>
+    <file name="u1776.png" crc="3807571440" ref="index"/>
+    <file name="u1776-r.png" crc="4232211895" ref="index"/>
+    <file name="u1778.png" crc="192037712" ref="index"/>
+    <file name="u1778-r.png" crc="221696330" ref="index"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="168448981" ref="phone>index"/>
+      <file name="index.css" crc="485277121" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="3830927234" seo="true" mt="1456222184010" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="312084353" seo="true" mt="1456273645605" redirect="true"/>
+</manifest>
