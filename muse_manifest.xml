@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="false" exportTarget="other" domain="www.hoborg.com/starters/04" resolutions="1x" timestamp="1456580137657">
+<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="false" exportTarget="other" domain="www.hoborg.com/starters/04" resolutions="1x" timestamp="1456580711309">
   <folder name="css">
     <file name="site_global.css" crc="303421102"/>
     <file name="master_a-master.css" crc="385869009" ref="forum-page:interactivity-forum:general-forum:paradigm-display-forum:feature-proposal-forum:post-1-welcome:source-material-forum:post-2-call-to-action:index:vizupedia-place-holder-page:timeline-page:mission-statement-page:blog-page"/>
@@ -18,7 +18,7 @@
     <file name="iefonts_source-material-forum.css" crc="324161979" ref="source-material-forum"/>
     <file name="post-2-call-to-action.css" crc="325649338" ref="post-2-call-to-action"/>
     <file name="iefonts_post-2-call-to-action.css" crc="324161979" ref="post-2-call-to-action"/>
-    <file name="index.css" crc="455232650" ref="index"/>
+    <file name="index.css" crc="272915060" ref="index"/>
     <file name="vizupedia-place-holder-page.css" crc="325649338" ref="vizupedia-place-holder-page"/>
     <file name="iefonts_vizupedia-place-holder-page.css" crc="324161979" ref="vizupedia-place-holder-page"/>
     <file name="timeline-page.css" crc="325649338" ref="timeline-page"/>
@@ -42,9 +42,8 @@
     <file name="form-u1840.php" crc="4023130124" ref="phone>index"/>
     <file name="jquery.scrolleffects.js" crc="3837774061" ref="phone>index:index"/>
     <file name="museredirect.js" crc="3985760531" ref="tablet>index:tablet>timeline-page:tablet>vizupedia-place-holder-page:tablet>mission-statement-page:tablet>blog-page:tablet>post-1-welcome:tablet>post-2-call-to-action:tablet>forum-page:tablet>general-forum:tablet>feature-proposal-forum:tablet>paradigm-display-forum:tablet>interactivity-forum:tablet>source-material-forum:index"/>
-    <file name="jquery.musemenu.js" crc="3866264083" ref="index"/>
     <file name="form-u340.php" crc="4152051493" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:timeline-page:mission-statement-page:blog-page:forum-page:paradigm-display-forum:interactivity-forum:source-material-forum:general-forum:feature-proposal-forum:post-1-welcome:post-2-call-to-action:vizupedia-place-holder-page"/>
+    <file name="html5shiv.js" crc="4241844378" ref="timeline-page:mission-statement-page:blog-page:forum-page:paradigm-display-forum:interactivity-forum:source-material-forum:general-forum:feature-proposal-forum:post-1-welcome:post-2-call-to-action:vizupedia-place-holder-page"/>
   </folder>
   <folder name="images">
     <file name="u651-grad.png" crc="4093856188" ref="phone>index"/>
@@ -74,7 +73,7 @@
     <file name="u69-grad.png" crc="24505155" ref="index"/>
     <file name="net_image_sponge2-u75-fr.png" crc="4136704819" ref="index"/>
     <file name="u88-grad.png" crc="192589829" ref="index"/>
-    <file name="u157-8.png" crc="279712398" ref="index"/>
+    <file name="u157-8.png" crc="4082765992" ref="index"/>
     <file name="u182-grad.png" crc="73070161" ref="index"/>
     <file name="datavizrep-u4868-fr.png" crc="3759433457" ref="index"/>
     <file name="803_big02-u4866-fr.png" crc="140567335" ref="index"/>
@@ -128,11 +127,11 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="3832656421" ref="phone>index"/>
+      <file name="index.css" crc="102016988" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="466181174" seo="true" mt="1456568572274" redirect="true"/>
+    <file name="index.html" crc="69016379" seo="true" mt="1456580548594" redirect="true"/>
   </folder>
-  <file name="index.html" crc="204454769" seo="true" mt="1456580002400" redirect="true"/>
+  <file name="index.html" crc="59208994" seo="true" mt="1456580513064" redirect="true"/>
   <file name="timeline-page.html" crc="527731079" seo="true" mt="1456568587441" redirect="true"/>
   <file name="mission-statement-page.html" crc="3905053879" seo="true" mt="1456568587441" redirect="true"/>
   <file name="blog-page.html" crc="452622862" seo="true" mt="1456568587441" redirect="true"/>
