@@ -1,0 +1,157 @@
+.version.blog_page /* version checker */
+{
+	color: #000013;
+	background-color: #6903BA;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 749.9499999999971px;
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	padding-top: 277px;
+	width: 0.01px;/* should not cover content below */
+}
+
+#u1773
+{
+	z-index: 11;
+	width: 39px;
+	height: 161px;
+	margin-left: 506px;
+	top: -61px;
+	margin-bottom: -100px;
+	position: relative;
+}
+
+#u1773:hover
+{
+	width: 39px;
+	height: 161px;
+	min-height: 0px;
+	margin: 0px 0px -100px 506px;
+}
+
+#u1773:active
+{
+	width: 39px;
+	height: 161px;
+	min-height: 0px;
+	margin: 0px 0px -100px 506px;
+}
+
+#pu1770
+{
+	width: 0.01px;
+	margin-left: -100px;
+	margin-top: -22px;
+}
+
+#u1770
+{
+	z-index: 2;
+	min-height: 433.75px;
+	padding-bottom: 0px;
+}
+
+#u1770_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	width: 960px;
+	left: -100px;
+	padding-top: 102px;
+	padding-bottom: 229px;
+}
+
+#u1771-4
+{
+	z-index: 3;
+	width: 325px;
+	min-height: 45px;
+	left: 460px;
+	position: relative;
+}
+
+#u1772-4
+{
+	z-index: 7;
+	width: 517px;
+	min-height: 32px;
+	left: 364px;
+	margin-top: 26px;
+	position: relative;
+}
+
+.js body
+{
+	visibility: hidden;
+}
+
+.js body.initialized
+{
+	visibility: visible;
+}
+
+#u1770-bw
+{
+	z-index: 2;
+	min-height: 433.75px;
+}
+
+#u1774
+{
+	z-index: 13;
+	height: 39px;
+	width: 38px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 284px;
+	left: 657px;
+}
+
+#u1776
+{
+	z-index: 16;
+	height: 39px;
+	width: 38px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 284px;
+	left: 558px;
+}
+
+#u1778
+{
+	z-index: 19;
+	height: 39px;
+	width: 38px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 284px;
+	left: 607px;
+}
+
+#muse_css_mq,.html
+{
+	background-color: #FFFFFF;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+}
+

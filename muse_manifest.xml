@@ -1,14 +1,40 @@
-<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.hoborg.com/starters/04" resolutions="1x" timestamp="1456274115634">
+<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.hoborg.com/starters/04" resolutions="1x" timestamp="1456289098477">
   <folder name="css">
     <file name="site_global.css" crc="303421102"/>
-    <file name="master_a-master.css" crc="4090384421" ref="index"/>
-    <file name="index.css" crc="3931468346" ref="index"/>
+    <file name="master_a-master.css" crc="4090384421" ref="index:mobile-main:forum-page:source-material-forum:interactivity-forum:general-forum:blog-page:timeline-page:mission-statement-page:feature-proposal-forum:paradigm-display-forum:post-2-call-to-action:post-1-welcome:vizupedia-place-holder-page"/>
+    <file name="index.css" crc="391145309" ref="index"/>
+    <file name="mobile-main.css" crc="325649338" ref="mobile-main"/>
+    <file name="iefonts_mobile-main.css" crc="324161979" ref="mobile-main"/>
+    <file name="forum-page.css" crc="325649338" ref="forum-page"/>
+    <file name="iefonts_forum-page.css" crc="324161979" ref="forum-page"/>
+    <file name="source-material-forum.css" crc="325649338" ref="source-material-forum"/>
+    <file name="iefonts_source-material-forum.css" crc="324161979" ref="source-material-forum"/>
+    <file name="interactivity-forum.css" crc="325649338" ref="interactivity-forum"/>
+    <file name="iefonts_interactivity-forum.css" crc="324161979" ref="interactivity-forum"/>
+    <file name="general-forum.css" crc="325649338" ref="general-forum"/>
+    <file name="iefonts_general-forum.css" crc="324161979" ref="general-forum"/>
+    <file name="blog-page.css" crc="325649338" ref="blog-page"/>
+    <file name="iefonts_blog-page.css" crc="324161979" ref="blog-page"/>
+    <file name="timeline-page.css" crc="325649338" ref="timeline-page"/>
+    <file name="iefonts_timeline-page.css" crc="324161979" ref="timeline-page"/>
+    <file name="mission-statement-page.css" crc="325649338" ref="mission-statement-page"/>
+    <file name="iefonts_mission-statement-page.css" crc="324161979" ref="mission-statement-page"/>
+    <file name="feature-proposal-forum.css" crc="325649338" ref="feature-proposal-forum"/>
+    <file name="iefonts_feature-proposal-forum.css" crc="324161979" ref="feature-proposal-forum"/>
+    <file name="paradigm-display-forum.css" crc="325649338" ref="paradigm-display-forum"/>
+    <file name="iefonts_paradigm-display-forum.css" crc="324161979" ref="paradigm-display-forum"/>
+    <file name="post-2-call-to-action.css" crc="325649338" ref="post-2-call-to-action"/>
+    <file name="iefonts_post-2-call-to-action.css" crc="324161979" ref="post-2-call-to-action"/>
+    <file name="post-1-welcome.css" crc="325649338" ref="post-1-welcome"/>
+    <file name="iefonts_post-1-welcome.css" crc="324161979" ref="post-1-welcome"/>
+    <file name="vizupedia-place-holder-page.css" crc="325649338" ref="vizupedia-place-holder-page"/>
+    <file name="iefonts_vizupedia-place-holder-page.css" crc="324161979" ref="vizupedia-place-holder-page"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="409338010" ref="phone>index:index"/>
-    <file name="museutils.js" crc="4190794036" ref="phone>index:index"/>
-    <file name="whatinput.js" crc="84559013" ref="phone>index:index"/>
-    <file name="jquery.watch.js" crc="349565855" ref="phone>index:index"/>
+    <file name="jquery-1.8.3.min.js" crc="409338010" ref="phone>index:index:timeline-page:mission-statement-page:blog-page:forum-page:paradigm-display-forum:interactivity-forum:source-material-forum:general-forum:feature-proposal-forum:post-1-welcome:post-2-call-to-action:vizupedia-place-holder-page:mobile-main"/>
+    <file name="museutils.js" crc="4190794036" ref="phone>index:index:timeline-page:mission-statement-page:blog-page:forum-page:paradigm-display-forum:interactivity-forum:source-material-forum:general-forum:feature-proposal-forum:post-1-welcome:post-2-call-to-action:vizupedia-place-holder-page:mobile-main"/>
+    <file name="whatinput.js" crc="84559013" ref="phone>index:index:timeline-page:mission-statement-page:blog-page:forum-page:paradigm-display-forum:interactivity-forum:source-material-forum:general-forum:feature-proposal-forum:post-1-welcome:post-2-call-to-action:vizupedia-place-holder-page:mobile-main"/>
+    <file name="jquery.watch.js" crc="349565855" ref="phone>index:index:timeline-page:mission-statement-page:blog-page:forum-page:paradigm-display-forum:interactivity-forum:source-material-forum:general-forum:feature-proposal-forum:post-1-welcome:post-2-call-to-action:vizupedia-place-holder-page:mobile-main"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="3792042506" ref="phone>index:index"/>
     <file name="pie.js" crc="3827607177" ref="phone>index:index"/>
     <file name="webpro.js" crc="488283310" ref="phone>index:index"/>
@@ -24,7 +50,6 @@
     <file name="form-u340.php" crc="4152051493" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="bkg_01.jpg" crc="4249309889" ref="phone>index"/>
     <file name="speaker_01-u973-fr.png" crc="3807737923" ref="phone>index:index"/>
     <file name="speaker_03-u971-fr.png" crc="4220311394" ref="phone>index"/>
     <file name="speaker_02-u972-fr.png" crc="287574460" ref="phone>index"/>
@@ -48,7 +73,6 @@
     <file name="u1790.png" crc="192037712" ref="phone>index"/>
     <file name="u1790-r.png" crc="221696330" ref="phone>index"/>
     <file name="u157-6.png" crc="370328795" ref="index"/>
-    <file name="datavizrep.jpg" crc="507164169" ref="index"/>
     <file name="speaker_02-u214-fr.png" crc="287574460" ref="index"/>
     <file name="speaker_03-u1674-fr.png" crc="4220311394" ref="index"/>
     <file name="arrows-mn_close.png" crc="236761104" seo="true" ref="index"/>
@@ -56,19 +80,40 @@
     <file name="u347-17-r.png" crc="281374165" ref="index"/>
     <file name="u347-17-m.png" crc="281374165" ref="index"/>
     <file name="u347-17-fs.png" crc="4069240070" ref="index"/>
-    <file name="u1774.png" crc="3830243537" ref="index"/>
-    <file name="u1774-r.png" crc="120001427" ref="index"/>
-    <file name="u1776.png" crc="3807571440" ref="index"/>
-    <file name="u1776-r.png" crc="4232211895" ref="index"/>
-    <file name="u1778.png" crc="192037712" ref="index"/>
-    <file name="u1778-r.png" crc="221696330" ref="index"/>
+    <file name="u1774.png" crc="3830243537" ref="index:timeline-page:mission-statement-page:blog-page:forum-page:paradigm-display-forum:interactivity-forum:source-material-forum:general-forum:feature-proposal-forum:post-1-welcome:post-2-call-to-action:vizupedia-place-holder-page:mobile-main"/>
+    <file name="u1774-r.png" crc="120001427" ref="index:timeline-page:mission-statement-page:blog-page:forum-page:paradigm-display-forum:interactivity-forum:source-material-forum:general-forum:feature-proposal-forum:post-1-welcome:post-2-call-to-action:vizupedia-place-holder-page:mobile-main"/>
+    <file name="u1776.png" crc="3807571440" ref="index:timeline-page:mission-statement-page:blog-page:forum-page:paradigm-display-forum:interactivity-forum:source-material-forum:general-forum:feature-proposal-forum:post-1-welcome:post-2-call-to-action:vizupedia-place-holder-page:mobile-main"/>
+    <file name="u1776-r.png" crc="4232211895" ref="index:timeline-page:mission-statement-page:blog-page:forum-page:paradigm-display-forum:interactivity-forum:source-material-forum:general-forum:feature-proposal-forum:post-1-welcome:post-2-call-to-action:vizupedia-place-holder-page:mobile-main"/>
+    <file name="u1778.png" crc="192037712" ref="index:timeline-page:mission-statement-page:blog-page:forum-page:paradigm-display-forum:interactivity-forum:source-material-forum:general-forum:feature-proposal-forum:post-1-welcome:post-2-call-to-action:vizupedia-place-holder-page:mobile-main"/>
+    <file name="u1778-r.png" crc="221696330" ref="index:timeline-page:mission-statement-page:blog-page:forum-page:paradigm-display-forum:interactivity-forum:source-material-forum:general-forum:feature-proposal-forum:post-1-welcome:post-2-call-to-action:vizupedia-place-holder-page:mobile-main"/>
+    <file name="u651-grad.png" crc="4019313939" ref="phone>index"/>
+    <file name="datavizrep-u673-fr.jpg" crc="264200498" ref="phone>index"/>
+    <file name="u3960-grad.png" crc="4045585844" ref="phone>index"/>
+    <file name="u674-14.png" crc="4119701602" ref="phone>index"/>
+    <file name="u679-6.png" crc="3940790898" ref="phone>index"/>
+    <file name="u681-grad.png" crc="4210854616" ref="phone>index"/>
+    <file name="u69-grad.png" crc="24505155" ref="index"/>
+    <file name="datavizrep-u75-fr.png" crc="3786009140" ref="index"/>
   </folder>
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="168448981" ref="phone>index"/>
-      <file name="index.css" crc="485277121" ref="phone>index"/>
+      <file name="index.css" crc="331100148" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="3830927234" seo="true" mt="1456222184010" redirect="true"/>
+    <file name="index.html" crc="341647336" seo="true" mt="1456287350185" redirect="true"/>
   </folder>
-  <file name="index.html" crc="312084353" seo="true" mt="1456273645605" redirect="true"/>
+  <file name="index.html" crc="4280531000" seo="true" mt="1456283647111" redirect="true"/>
+  <file name="timeline-page.html" crc="4094845657" seo="true" mt="1456282693924" redirect="true"/>
+  <file name="mission-statement-page.html" crc="4053775792" seo="true" mt="1456282703913" redirect="true"/>
+  <file name="blog-page.html" crc="4171213117" seo="true" mt="1456282709497" redirect="true"/>
+  <file name="forum-page.html" crc="3979314785" seo="true" mt="1456282716201" redirect="true"/>
+  <file name="paradigm-display-forum.html" crc="3962801201" seo="true" mt="1456282771760" redirect="true"/>
+  <file name="interactivity-forum.html" crc="3792169292" seo="true" mt="1456282788559" redirect="true"/>
+  <file name="source-material-forum.html" crc="306598214" seo="true" mt="1456282804805" redirect="true"/>
+  <file name="general-forum.html" crc="4063437735" seo="true" mt="1456282812241" redirect="true"/>
+  <file name="feature-proposal-forum.html" crc="4291352707" seo="true" mt="1456282825581" redirect="true"/>
+  <file name="post-1-welcome.html" crc="4170802291" seo="true" mt="1456282888206" redirect="true"/>
+  <file name="post-2-call-to-action.html" crc="4035844350" seo="true" mt="1456282914686" redirect="true"/>
+  <file name="vizupedia-place-holder-page.html" crc="4097754591" seo="true" mt="1456282939742" redirect="true"/>
+  <file name="mobile-main.html" crc="4170141795" seo="true" mt="1456283522664" redirect="true"/>
 </manifest>
