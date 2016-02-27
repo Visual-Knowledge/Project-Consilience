@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="false" exportTarget="other" domain="www.hoborg.com/starters/04" resolutions="1x" timestamp="1456580711309">
+<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="false" exportTarget="other" domain="www.hoborg.com/starters/04" resolutions="1x" timestamp="1456581425097">
   <folder name="css">
     <file name="site_global.css" crc="303421102"/>
     <file name="master_a-master.css" crc="385869009" ref="forum-page:interactivity-forum:general-forum:paradigm-display-forum:feature-proposal-forum:post-1-welcome:source-material-forum:post-2-call-to-action:index:vizupedia-place-holder-page:timeline-page:mission-statement-page:blog-page"/>
@@ -41,9 +41,8 @@
     <file name="form_process.php" crc="339897355" ref="phone>index:index"/>
     <file name="form-u1840.php" crc="4023130124" ref="phone>index"/>
     <file name="jquery.scrolleffects.js" crc="3837774061" ref="phone>index:index"/>
-    <file name="museredirect.js" crc="3985760531" ref="tablet>index:tablet>timeline-page:tablet>vizupedia-place-holder-page:tablet>mission-statement-page:tablet>blog-page:tablet>post-1-welcome:tablet>post-2-call-to-action:tablet>forum-page:tablet>general-forum:tablet>feature-proposal-forum:tablet>paradigm-display-forum:tablet>interactivity-forum:tablet>source-material-forum:index"/>
+    <file name="museredirect.js" crc="3985760531" ref="tablet>index:tablet>timeline-page:tablet>vizupedia-place-holder-page:tablet>mission-statement-page:tablet>blog-page:tablet>post-1-welcome:tablet>post-2-call-to-action:tablet>forum-page:tablet>general-forum:tablet>feature-proposal-forum:tablet>paradigm-display-forum:tablet>interactivity-forum:tablet>source-material-forum"/>
     <file name="form-u340.php" crc="4152051493" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="timeline-page:mission-statement-page:blog-page:forum-page:paradigm-display-forum:interactivity-forum:source-material-forum:general-forum:feature-proposal-forum:post-1-welcome:post-2-call-to-action:vizupedia-place-holder-page"/>
   </folder>
   <folder name="images">
     <file name="u651-grad.png" crc="4093856188" ref="phone>index"/>
@@ -110,7 +109,7 @@
       <file name="vizupedia-place-holder-page.css" crc="4241999866" ref="tablet>vizupedia-place-holder-page"/>
       <file name="interactivity-forum.css" crc="4241999866" ref="tablet>interactivity-forum"/>
     </folder>
-    <file name="index.html" crc="3926248475" seo="true" mt="1456565424196" redirect="false"/>
+    <file name="index.html" crc="162653367" seo="true" mt="1456565424196" redirect="false"/>
     <file name="timeline-page.html" crc="74131085" seo="true" mt="1456565424196" redirect="false"/>
     <file name="vizupedia-place-holder-page.html" crc="4102002948" seo="true" mt="1456565424196" redirect="false"/>
     <file name="mission-statement-page.html" crc="300317650" seo="true" mt="1456565424196" redirect="false"/>
@@ -129,19 +128,19 @@
     <folder name="css">
       <file name="index.css" crc="102016988" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="69016379" seo="true" mt="1456580548594" redirect="true"/>
+    <file name="index.html" crc="213896806" seo="true" mt="1456580548594" redirect="true"/>
   </folder>
-  <file name="index.html" crc="59208994" seo="true" mt="1456580513064" redirect="true"/>
-  <file name="timeline-page.html" crc="527731079" seo="true" mt="1456568587441" redirect="true"/>
-  <file name="mission-statement-page.html" crc="3905053879" seo="true" mt="1456568587441" redirect="true"/>
-  <file name="blog-page.html" crc="452622862" seo="true" mt="1456568587441" redirect="true"/>
-  <file name="forum-page.html" crc="4014526114" seo="true" mt="1456568587441" redirect="true"/>
-  <file name="paradigm-display-forum.html" crc="431045310" seo="true" mt="1456568587441" redirect="true"/>
-  <file name="interactivity-forum.html" crc="285737245" seo="true" mt="1456568587441" redirect="true"/>
-  <file name="source-material-forum.html" crc="123106125" seo="true" mt="1456568587441" redirect="true"/>
-  <file name="general-forum.html" crc="3902890122" seo="true" mt="1456568587441" redirect="true"/>
-  <file name="feature-proposal-forum.html" crc="4213072943" seo="true" mt="1456568587441" redirect="true"/>
-  <file name="post-1-welcome.html" crc="3941401144" seo="true" mt="1456568587441" redirect="true"/>
-  <file name="post-2-call-to-action.html" crc="25263772" seo="true" mt="1456568587441" redirect="true"/>
-  <file name="vizupedia-place-holder-page.html" crc="4061209978" seo="true" mt="1456568587441" redirect="true"/>
+  <file name="index.html" crc="3810596521" seo="true" mt="1456581295018" redirect="true"/>
+  <file name="timeline-page.html" crc="90173947" seo="true" mt="1456581295018" redirect="true"/>
+  <file name="mission-statement-page.html" crc="3863004501" seo="true" mt="1456581295018" redirect="true"/>
+  <file name="blog-page.html" crc="437593375" seo="true" mt="1456581295018" redirect="true"/>
+  <file name="forum-page.html" crc="517168839" seo="true" mt="1456581295018" redirect="true"/>
+  <file name="paradigm-display-forum.html" crc="464176235" seo="true" mt="1456581295018" redirect="true"/>
+  <file name="interactivity-forum.html" crc="13034919" seo="true" mt="1456581295018" redirect="true"/>
+  <file name="source-material-forum.html" crc="140541100" seo="true" mt="1456581295018" redirect="true"/>
+  <file name="general-forum.html" crc="4186763232" seo="true" mt="1456581295018" redirect="true"/>
+  <file name="feature-proposal-forum.html" crc="449256651" seo="true" mt="1456581295018" redirect="true"/>
+  <file name="post-1-welcome.html" crc="1764850" seo="true" mt="1456581295018" redirect="true"/>
+  <file name="post-2-call-to-action.html" crc="3844504077" seo="true" mt="1456581295018" redirect="true"/>
+  <file name="vizupedia-place-holder-page.html" crc="3819379371" seo="true" mt="1456581295018" redirect="true"/>
 </manifest>
