@@ -28,9 +28,9 @@
 {
 	background-color: transparent;
 	letter-spacing: 1px;
-	line-height: 42px;
 	font-size: 35px;
 	text-align: center;
+	line-height: 42px;
 	font-family: open-sans, sans-serif;
 	font-weight: 700;
 }
@@ -39,9 +39,9 @@
 {
 	background-color: transparent;
 	font-size: 20px;
+	line-height: 24px;
 	color: #999999;
 	letter-spacing: 6px;
-	line-height: 24px;
 	text-align: center;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
