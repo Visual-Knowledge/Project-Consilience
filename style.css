@@ -8,7 +8,8 @@
 }
 */
 body {
-    background-color: black;
+    background: -moz-linear-gradient(bottom right, #0a0e10, #1e3134); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to bottom right, #0a0e10, #1e3134); /* Standard syntax */
     background-clip: padding-box;
     margin: 0px;
 }
@@ -21,7 +22,8 @@ header {
     height: auto;
     width: 100%;
     padding-bottom: 10px;
-    background-color: #0a0e10;
+    background: -moz-linear-gradient(bottom right, #0a0e10, #1e3134); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to bottom right, #0a0e10, #1e3134); /* Standard syntax */
     margin: 0px;
 }
 
@@ -53,14 +55,14 @@ header {
 }
 
 #contentDiv {
-    height: 300px;
+    height: 450px;
     width: 100%;
     position: static;
     padding-bottom: 1px;
     padding-top: 1px;
     border-top: 1.2px solid #9999ff;
     border-bottom: 1.2px solid #9999ff;
-    background-blend-mode: screen;
+    background: black;
     background-position: static;
     background-size: 100%;
 }
@@ -104,13 +106,8 @@ header {
 }
 
 #missionDiv {
-    padding-left: 90px;
-	padding-right: 90px;
-    background: #0a0e10; /* For browsers that do not support gradients */
-    background: -webkit-linear-gradient(left top, #0a0e10, #1e3134); /* For Safari 5.1 to 6.0 */
-    background: -o-linear-gradient(bottom right, #0a0e10, #1e3134); /* For Opera 11.1 to 12.0 */
-    background: -moz-linear-gradient(bottom right, #0a0e10, #1e3134); /* For Firefox 3.6 to 15 */
-    background: linear-gradient(to bottom right, #0a0e10, #1e3134); /* Standard syntax */
+    padding-left: 10px;
+	padding-right: 10px;
 }
 
 /* #goal1 {
