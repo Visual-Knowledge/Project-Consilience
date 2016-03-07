@@ -55,7 +55,6 @@ header {
     padding-top: 1px;
     border-top: 1.2px solid #9999ff;
     border-bottom: 1.2px solid #9999ff;
-    background-image: linear-gradient(to bottom right, black 0%, grey 100%), url('datavizrep.png');
     background-blend-mode: screen;
     background-position: static;
     background-size: 100%;
@@ -80,17 +79,6 @@ header {
     padding-top: 30px;
     padding-left: 21px;
 }*/
-
-#versionDiv {
-    position: static;
-    text-align: left;
-    font-size: 11px;
-    margin: 30px;
-    opacity: 0.6;
-    filter: alpha(opacity=60);
-    color: #f90606;
-    font-family: 'Consolas', 'Lucida Console', monospace;
-}
 
 #misDiv {
 	font-family: Vollkorn, serif;
@@ -133,6 +121,7 @@ header {
     font-size: 18px;
     font-family: 'Vollkorn', serif;
     font-weight: 400;
+    margin-top: 0px;
 }
 
 #goal2 {
