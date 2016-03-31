@@ -1,7 +1,7 @@
 .version.blog /* version checker */
 {
-	color: #0000F4;
-	background-color: #27711F;
+	color: #00001A;
+	background-color: #BF80A6;
 }
 
 .js body
@@ -17,6 +17,7 @@
 #page
 {
 	background-color: transparent;
+	min-height: 500px;
 	border-width: 0px;
 	z-index: 1;
 	margin-left: auto;
@@ -26,7 +27,7 @@
 	margin-right: auto;
 }
 
-#pu843-3
+#page_position_content,#pu843-3
 {
 	width: 100%;
 }
@@ -116,9 +117,12 @@ body
 
 	#page
 	{
-		min-height: 460px;
-		padding-bottom: 40px;
 		max-width: 1400px;
+	}
+
+	#page_position_content
+	{
+		padding-bottom: 30px;
 	}
 
 	#u477-6
@@ -144,16 +148,9 @@ body
 		left: 63.36%;
 	}
 
-	#pu1186
-	{
-		margin-top: 60px;
-		width: 100%;
-	}
-
 	#u4259-6
 	{
-		width: 1552px;
-		margin-right: -10000px;
+		margin-top: 74px;
 		left: -5.43%;
 	}
 
@@ -177,14 +174,12 @@ body
 
 	#page
 	{
-		min-height: 500px;
 		max-width: 967px;
 	}
 
 	#page_position_content
 	{
-		padding-bottom: 40px;
-		width: 100%;
+		padding-bottom: 23px;
 	}
 
 	#u477-6
@@ -217,7 +212,7 @@ body
 
 	#u4259-6
 	{
-		margin-top: 56px;
+		margin-top: 73px;
 		left: -5.38%;
 	}
 

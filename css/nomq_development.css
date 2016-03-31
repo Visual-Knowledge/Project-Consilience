@@ -10,9 +10,12 @@
 
 	#page
 	{
-		min-height: 460px;
-		padding-bottom: 40px;
 		max-width: 1400px;
+	}
+
+	#page_position_content
+	{
+		padding-bottom: 30px;
 	}
 
 	#u477-6
@@ -38,16 +41,9 @@
 		left: 63.36%;
 	}
 
-	#pu1186
-	{
-		margin-top: 60px;
-		width: 100%;
-	}
-
 	#u4259-6
 	{
-		width: 1552px;
-		margin-right: -10000px;
+		margin-top: 74px;
 		left: -5.43%;
 	}
 
