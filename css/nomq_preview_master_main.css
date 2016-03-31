@@ -5,116 +5,10 @@
 		background: linear-gradient(to right,#00006C ,#00407B 66%);
 	}
 
-	#u5072-4
-	{
-		-webkit-transition-duration: 1s;
-		-webkit-transition-delay: 0s;
-		-webkit-transition-timing-function: ease;
-		transition-duration: 1s;
-		transition-delay: 0s;
-		transition-timing-function: ease;
-		background-image: url("../images/blank.gif");
-		background-color: transparent;
-		line-height: 18px;
-		font-size: 15px;
-		letter-spacing: 2px;
-		color: #FFFFFF;
-		text-align: center;
-		font-family: advent-pro, sans-serif;
-		font-weight: 400;
-	}
-
-	#u5072-4:hover
-	{
-		-webkit-transition-duration: 1s;
-		-webkit-transition-delay: 0s;
-		-webkit-transition-timing-function: ease;
-		transition-duration: 1s;
-		transition-delay: 0s;
-		transition-timing-function: ease;
-		text-shadow: 0px 0px 14px rgba(31,162,228,0.84),0px 0px 14px rgba(31,162,228,0.84)/* glow */,
-0px 2px 2px #000000/* drop shadow*/;
-		-pie-box-shadow: none;
-		box-shadow: none;
-	}
-
-	#u5078-4
-	{
-		-webkit-transition-duration: 1s;
-		-webkit-transition-delay: 0s;
-		-webkit-transition-timing-function: ease;
-		transition-duration: 1s;
-		transition-delay: 0s;
-		transition-timing-function: ease;
-		background-image: url("../images/blank.gif");
-		background-color: transparent;
-		line-height: 18px;
-		font-size: 15px;
-		letter-spacing: 2px;
-		color: #FFFFFF;
-		text-align: center;
-		font-family: advent-pro, sans-serif;
-		font-weight: 400;
-	}
-
-	#u5078-4:hover
-	{
-		-webkit-transition-duration: 1s;
-		-webkit-transition-delay: 0s;
-		-webkit-transition-timing-function: ease;
-		transition-duration: 1s;
-		transition-delay: 0s;
-		transition-timing-function: ease;
-		text-shadow: 0px 0px 14px rgba(31,162,228,0.84),0px 0px 14px rgba(31,162,228,0.84)/* glow */,
-0px 2px 2px #000000/* drop shadow*/;
-		-pie-box-shadow: none;
-		box-shadow: none;
-	}
-
-	#u5084-4
-	{
-		-webkit-transition-duration: 1s;
-		-webkit-transition-delay: 0s;
-		-webkit-transition-timing-function: ease;
-		transition-duration: 1s;
-		transition-delay: 0s;
-		transition-timing-function: ease;
-		background-image: url("../images/blank.gif");
-		background-color: transparent;
-		line-height: 18px;
-		font-size: 15px;
-		letter-spacing: 2px;
-		color: #FFFFFF;
-		text-align: center;
-		font-family: advent-pro, sans-serif;
-		font-weight: 400;
-	}
-
-	#u5084-4:hover
-	{
-		-webkit-transition-duration: 1s;
-		-webkit-transition-delay: 0s;
-		-webkit-transition-timing-function: ease;
-		transition-duration: 1s;
-		transition-delay: 0s;
-		transition-timing-function: ease;
-		text-shadow: 0px 0px 14px rgba(31,162,228,0.84),0px 0px 14px rgba(31,162,228,0.84)/* glow */,
-0px 2px 2px #000000/* drop shadow*/;
-		-pie-box-shadow: none;
-		box-shadow: none;
-	}
-
 	#u5090-4
 	{
-		-webkit-transition-duration: 1s;
-		-webkit-transition-delay: 0s;
-		-webkit-transition-timing-function: ease;
-		transition-duration: 1s;
-		transition-delay: 0s;
-		transition-timing-function: ease;
-		background-image: url("../images/blank.gif");
 		background-color: transparent;
-		line-height: 18px;
+		line-height: 15px;
 		font-size: 15px;
 		letter-spacing: 2px;
 		color: #FFFFFF;
@@ -125,24 +19,115 @@
 
 	#u5090-4:hover
 	{
-		-webkit-transition-duration: 1s;
-		-webkit-transition-delay: 0s;
-		-webkit-transition-timing-function: ease;
-		transition-duration: 1s;
-		transition-delay: 0s;
-		transition-timing-function: ease;
 		text-shadow: 0px 0px 14px rgba(31,162,228,0.84),0px 0px 14px rgba(31,162,228,0.84)/* glow */,
-0px 2px 2px #000000/* drop shadow*/;
+0px 3px 2px #000000/* drop shadow*/;
 		-pie-box-shadow: none;
 		box-shadow: none;
 	}
 
-	#u5072-4:active,#u5078-4:active,#u5084-4:active,#u5090-4:active
+	#u5090-4:active
 	{
 		text-shadow: 0px 0px 14px rgba(31,162,228,0.69),0px 0px 14px rgba(31,162,228,0.69)/* glow */,
 0px 3px 3px #000000/* drop shadow*/;
 		-pie-box-shadow: none;
 		box-shadow: none;
+	}
+
+	#u5084-4
+	{
+		background-color: transparent;
+		line-height: 15px;
+		font-size: 15px;
+		letter-spacing: 2px;
+		color: #FFFFFF;
+		text-align: center;
+		font-family: advent-pro, sans-serif;
+		font-weight: 400;
+	}
+
+	#u5084-4:hover
+	{
+		text-shadow: 0px 0px 14px rgba(31,162,228,0.84),0px 0px 14px rgba(31,162,228,0.84)/* glow */,
+0px 3px 2px #000000/* drop shadow*/;
+		-pie-box-shadow: none;
+		box-shadow: none;
+	}
+
+	#u5084-4:active
+	{
+		text-shadow: 0px 0px 14px rgba(31,162,228,0.69),0px 0px 14px rgba(31,162,228,0.69)/* glow */,
+0px 3px 3px #000000/* drop shadow*/;
+		-pie-box-shadow: none;
+		box-shadow: none;
+	}
+
+	#u5078-4
+	{
+		background-color: transparent;
+		line-height: 15px;
+		font-size: 15px;
+		letter-spacing: 2px;
+		color: #FFFFFF;
+		text-align: center;
+		font-family: advent-pro, sans-serif;
+		font-weight: 400;
+	}
+
+	#u5078-4:hover
+	{
+		text-shadow: 0px 0px 14px rgba(31,162,228,0.84),0px 0px 14px rgba(31,162,228,0.84)/* glow */,
+0px 3px 2px #000000/* drop shadow*/;
+		-pie-box-shadow: none;
+		box-shadow: none;
+	}
+
+	#u5078-4:active
+	{
+		text-shadow: 0px 0px 14px rgba(31,162,228,0.69),0px 0px 14px rgba(31,162,228,0.69)/* glow */,
+0px 3px 3px #000000/* drop shadow*/;
+		-pie-box-shadow: none;
+		box-shadow: none;
+	}
+
+	#u5072-4
+	{
+		background-color: transparent;
+		line-height: 15px;
+		font-size: 15px;
+		letter-spacing: 2px;
+		color: #FFFFFF;
+		text-align: center;
+		font-family: advent-pro, sans-serif;
+		font-weight: 400;
+	}
+
+	#u5072-4:hover
+	{
+		text-shadow: 0px 0px 14px rgba(31,162,228,0.84),0px 0px 14px rgba(31,162,228,0.84)/* glow */,
+0px 3px 2px #000000/* drop shadow*/;
+		-pie-box-shadow: none;
+		box-shadow: none;
+	}
+
+	#u5072-4:active
+	{
+		text-shadow: 0px 0px 14px rgba(31,162,228,0.69),0px 0px 14px rgba(31,162,228,0.69)/* glow */,
+0px 3px 3px #000000/* drop shadow*/;
+		-pie-box-shadow: none;
+		box-shadow: none;
+	}
+
+	#u5090-4.MuseLinkActive,#u5084-4.MuseLinkActive,#u5078-4.MuseLinkActive,#u5072-4.MuseLinkActive
+	{
+		text-shadow: 1px 1px 1px rgba(0,0,0,0.96);
+		-pie-box-shadow: none;
+		box-shadow: none;
+	}
+
+	#u5090-4.MuseLinkActive p,#u5084-4.MuseLinkActive p,#u5078-4.MuseLinkActive p,#u5072-4.MuseLinkActive p
+	{
+		color: #DDDD6A;
+		visibility: inherit;
 	}
 
 	#u8372-5
