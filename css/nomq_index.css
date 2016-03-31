@@ -33,7 +33,7 @@
 
 	#u12732-4
 	{
-		z-index: 19;
+		z-index: 15;
 		min-height: 41px;
 		position: relative;
 		margin-right: -10000px;
@@ -50,9 +50,18 @@
 		margin: 0px -10000px 0px 0%;
 	}
 
+	#u12732-4:active
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 41px;
+		width: 11.76%;
+		margin: 0px -10000px 0px 0%;
+	}
+
 	#u5084-4
 	{
-		z-index: 23;
+		z-index: 19;
 		min-height: 41px;
 		position: relative;
 		margin-right: -10000px;
@@ -60,7 +69,16 @@
 		left: 58.85%;
 	}
 
-	#u12732-4:active,#u5084-4:hover
+	#u12732-4.MuseLinkActive,#u5084-4:hover
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 41px;
+		width: 11.76%;
+		margin: 0px -10000px 0px 0%;
+	}
+
+	#u5084-4:active
 	{
 		padding-top: 0px;
 		padding-bottom: 0px;
@@ -71,7 +89,7 @@
 
 	#u12720-4
 	{
-		z-index: 27;
+		z-index: 23;
 		min-height: 41px;
 		position: relative;
 		margin-right: -10000px;
@@ -97,9 +115,18 @@
 		margin: 0px -10000px 0px 0%;
 	}
 
+	#u12720-4.MuseLinkActive
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 41px;
+		width: 11.82%;
+		margin: 0px -10000px 0px 0%;
+	}
+
 	#u12726-4
 	{
-		z-index: 31;
+		z-index: 27;
 		min-height: 41px;
 		position: relative;
 		margin-right: -10000px;
@@ -107,7 +134,7 @@
 		left: 35.28%;
 	}
 
-	#u5084-4:active,#u12726-4:hover
+	#u5084-4.MuseLinkActive,#u12726-4:hover
 	{
 		padding-top: 0px;
 		padding-bottom: 0px;
@@ -117,6 +144,15 @@
 	}
 
 	#u12726-4:active
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 41px;
+		width: 11.76%;
+		margin: 0px -10000px 0px 0%;
+	}
+
+	#u12726-4.MuseLinkActive
 	{
 		padding-top: 0px;
 		padding-bottom: 0px;
@@ -144,17 +180,11 @@
 		margin: 0px;
 	}
 
-	#u21497-4
-	{
-		z-index: 15;
-		width: 5.88%;
-		max-width: 113px;
-	}
-
 	#u481-4
 	{
 		z-index: 6;
 		bottom: 10px;
 		right: 0px;
 	}
+
 

@@ -1,29 +1,28 @@
-<manifest alg="2" build="2015.1.1.343" opt="false" iceEnabled="false" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1459433580748">
+<manifest alg="2" build="2015.1.1.343" opt="false" iceEnabled="false" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1459435305491">
   <folder name="css">
     <file name="site_global.css" crc="4256542708"/>
-    <file name="master_main.css" crc="112039809" ref="index:blog:forum:contact:mission"/>
-    <file name="nomq_preview_master_main.css" crc="20168450" ref="index:blog:forum:contact:mission"/>
-    <file name="index.css" crc="4026884016" ref="index"/>
-    <file name="nomq_index.css" crc="3776684262" ref="index"/>
-    <file name="blog.css" crc="469009212" ref="blog"/>
-    <file name="nomq_blog.css" crc="4232244536" ref="blog"/>
+    <file name="master_main.css" crc="4033432271" ref="index:blog:forum:contact:mission"/>
+    <file name="nomq_preview_master_main.css" crc="4167037423" ref="index:blog:forum:contact:mission"/>
+    <file name="index.css" crc="516726431" ref="index"/>
+    <file name="nomq_index.css" crc="173740119" ref="index"/>
+    <file name="blog.css" crc="4158050426" ref="blog"/>
+    <file name="nomq_blog.css" crc="289041981" ref="blog"/>
     <file name="iefonts_blog.css" crc="366572109" ref="blog"/>
-    <file name="forum.css" crc="236401939" ref="forum"/>
-    <file name="nomq_forum.css" crc="27411373" ref="forum"/>
+    <file name="forum.css" crc="4239881131" ref="forum"/>
+    <file name="nomq_forum.css" crc="328659662" ref="forum"/>
     <file name="iefonts_forum.css" crc="366572109" ref="forum"/>
-    <file name="contact.css" crc="3828373102" ref="contact"/>
-    <file name="nomq_contact.css" crc="286629494" ref="contact"/>
+    <file name="contact.css" crc="4225149318" ref="contact"/>
+    <file name="nomq_contact.css" crc="146847567" ref="contact"/>
     <file name="iefonts_contact.css" crc="366572109" ref="contact"/>
-    <file name="iefonts_index.css" crc="366572109" ref="index"/>
-    <file name="mission.css" crc="4195589477" ref="mission"/>
-    <file name="nomq_mission.css" crc="3963070826" ref="mission"/>
+    <file name="mission.css" crc="399723379" ref="mission"/>
+    <file name="nomq_mission.css" crc="4261615625" ref="mission"/>
     <file name="iefonts_mission.css" crc="366572109" ref="mission"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="484278746" ref="index:mission:blog:forum:contact"/>
     <file name="museutils.js" crc="531812214" ref="index:mission:blog:forum:contact"/>
     <file name="whatinput.js" crc="84559013" ref="index:mission:blog:forum:contact"/>
-    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="mission"/>
     <file name="jquery.watch.js" crc="3866665977" ref="index:mission:blog:forum:contact"/>
     <file name="jquery.museresponsive.js" crc="367458044" ref="index:mission:blog:forum:contact"/>
   </folder>
@@ -32,9 +31,9 @@
     <file name="menu_icon_04_white_3line-crop-u7444.png" crc="3989612675" ref="index:mission:blog:forum:contact"/>
     <file name="blank.gif" crc="4208392903" ref="index:mission:blog:forum:contact"/>
   </folder>
-  <file name="index.html" crc="4032824559" seo="true" mt="1459433470042" redirect="true"/>
-  <file name="mission.html" crc="315603412" seo="true" mt="1459433472607" redirect="true"/>
-  <file name="blog.html" crc="124691334" seo="true" mt="1459433475192" redirect="true"/>
-  <file name="forum.html" crc="3997982705" seo="true" mt="1459433477727" redirect="true"/>
-  <file name="contact.html" crc="495269290" seo="true" mt="1459433480245" redirect="true"/>
+  <file name="index.html" crc="3847761148" seo="true" mt="1459435096251" redirect="true"/>
+  <file name="mission.html" crc="3785386686" seo="true" mt="1459435129963" redirect="true"/>
+  <file name="blog.html" crc="50089246" seo="true" mt="1459435131534" redirect="true"/>
+  <file name="forum.html" crc="53764290" seo="true" mt="1459435133111" redirect="true"/>
+  <file name="contact.html" crc="282050014" seo="true" mt="1459435134558" redirect="true"/>
 </manifest>
