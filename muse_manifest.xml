@@ -1,64 +1,40 @@
-<manifest alg="2" build="2015.1.1.343" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1459424583712">
+<manifest alg="2" build="2015.1.1.343" opt="false" iceEnabled="false" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1459433580748">
   <folder name="css">
-    <file name="site_global.css" crc="466326530"/>
-    <file name="master_main.css" crc="4115258521" ref="goals:design:timeline:contact:post-001:blog:development:forum:index:general:mission"/>
-    <file name="nomq_preview_master_main.css" crc="466239532" ref="goals:design:timeline:contact:post-001:blog:development:forum:index:general:mission"/>
-    <file name="goals.css" crc="4262139151" ref="goals"/>
-    <file name="nomq_goals.css" crc="4230711606" ref="goals"/>
-    <file name="design.css" crc="4262139151" ref="design"/>
-    <file name="nomq_design.css" crc="4230711606" ref="design"/>
-    <file name="timeline.css" crc="4262139151" ref="timeline"/>
-    <file name="nomq_timeline.css" crc="4230711606" ref="timeline"/>
-    <file name="contact.css" crc="4262139151" ref="contact"/>
-    <file name="nomq_contact.css" crc="4230711606" ref="contact"/>
-    <file name="post-001.css" crc="4262139151" ref="post-001"/>
-    <file name="nomq_post-001.css" crc="4230711606" ref="post-001"/>
-    <file name="blog.css" crc="4262139151" ref="blog"/>
-    <file name="nomq_blog.css" crc="4230711606" ref="blog"/>
-    <file name="development.css" crc="4262139151" ref="development"/>
-    <file name="nomq_development.css" crc="4230711606" ref="development"/>
-    <file name="forum.css" crc="4262139151" ref="forum"/>
-    <file name="nomq_forum.css" crc="4230711606" ref="forum"/>
-    <file name="index.css" crc="4262139151" ref="index"/>
-    <file name="nomq_index.css" crc="4230711606" ref="index"/>
-    <file name="mission.css" crc="342901816" ref="mission"/>
-    <file name="nomq_mission.css" crc="4230711606" ref="mission"/>
-    <file name="general.css" crc="4262139151" ref="general"/>
-    <file name="nomq_general.css" crc="4230711606" ref="general"/>
-    <file name="iefonts_goals.css" crc="366572109" ref="goals"/>
-    <file name="iefonts_design.css" crc="366572109" ref="design"/>
-    <file name="iefonts_timeline.css" crc="366572109" ref="timeline"/>
-    <file name="iefonts_contact.css" crc="366572109" ref="contact"/>
-    <file name="iefonts_general.css" crc="366572109" ref="general"/>
+    <file name="site_global.css" crc="4256542708"/>
+    <file name="master_main.css" crc="112039809" ref="index:blog:forum:contact:mission"/>
+    <file name="nomq_preview_master_main.css" crc="20168450" ref="index:blog:forum:contact:mission"/>
+    <file name="index.css" crc="4026884016" ref="index"/>
+    <file name="nomq_index.css" crc="3776684262" ref="index"/>
+    <file name="blog.css" crc="469009212" ref="blog"/>
+    <file name="nomq_blog.css" crc="4232244536" ref="blog"/>
     <file name="iefonts_blog.css" crc="366572109" ref="blog"/>
-    <file name="iefonts_development.css" crc="366572109" ref="development"/>
+    <file name="forum.css" crc="236401939" ref="forum"/>
+    <file name="nomq_forum.css" crc="27411373" ref="forum"/>
     <file name="iefonts_forum.css" crc="366572109" ref="forum"/>
+    <file name="contact.css" crc="3828373102" ref="contact"/>
+    <file name="nomq_contact.css" crc="286629494" ref="contact"/>
+    <file name="iefonts_contact.css" crc="366572109" ref="contact"/>
     <file name="iefonts_index.css" crc="366572109" ref="index"/>
-    <file name="iefonts_post-001.css" crc="366572109" ref="post-001"/>
+    <file name="mission.css" crc="4195589477" ref="mission"/>
+    <file name="nomq_mission.css" crc="3963070826" ref="mission"/>
     <file name="iefonts_mission.css" crc="366572109" ref="mission"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="484278746" ref="index:blog:mission:forum:timeline:goals:post-001:general:design:development:contact"/>
-    <file name="museutils.js" crc="531812214" ref="index:blog:mission:forum:timeline:goals:post-001:general:design:development:contact"/>
-    <file name="whatinput.js" crc="84559013" ref="index:blog:mission:forum:timeline:goals:post-001:general:design:development:contact"/>
-    <file name="pie.js" crc="3827607177" ref="mission:blog:forum"/>
-    <file name="jquery.watch.js" crc="3866665977" ref="index:blog:mission:forum:timeline:goals:post-001:general:design:development:contact"/>
-    <file name="jquery.museresponsive.js" crc="367458044" ref="index:blog:mission:forum:timeline:goals:post-001:general:design:development:contact"/>
+    <file name="jquery-1.8.3.min.js" crc="484278746" ref="index:mission:blog:forum:contact"/>
+    <file name="museutils.js" crc="531812214" ref="index:mission:blog:forum:contact"/>
+    <file name="whatinput.js" crc="84559013" ref="index:mission:blog:forum:contact"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.watch.js" crc="3866665977" ref="index:mission:blog:forum:contact"/>
+    <file name="jquery.museresponsive.js" crc="367458044" ref="index:mission:blog:forum:contact"/>
   </folder>
   <folder name="images">
-    <file name="u481-4.png" crc="75683641" ref="index:blog:forum:timeline:goals:post-001:general:design:development:contact:mission"/>
-    <file name="blank.gif" crc="4208392903" ref="index:blog:mission:forum:timeline:goals:post-001:general:design:development:contact"/>
-    <file name="menu_icon_04_white_3line-crop-u7444.png" crc="3989612675" ref="index:blog:forum:timeline:goals:post-001:general:design:development:contact:mission"/>
+    <file name="u481-4.png" crc="75683641" ref="index:mission:blog:forum:contact"/>
+    <file name="menu_icon_04_white_3line-crop-u7444.png" crc="3989612675" ref="index:mission:blog:forum:contact"/>
+    <file name="blank.gif" crc="4208392903" ref="index:mission:blog:forum:contact"/>
   </folder>
-  <file name="index.html" crc="4064100337" seo="true" mt="1459424573084" redirect="true"/>
-  <file name="blog.html" crc="4001593761" seo="true" mt="1459415318622" redirect="true"/>
-  <file name="mission.html" crc="3987045841" seo="true" mt="1459424574123" redirect="true"/>
-  <file name="forum.html" crc="4005304676" seo="true" mt="1459424573084" redirect="true"/>
-  <file name="timeline.html" crc="259185471" seo="true" mt="1459424573084" redirect="true"/>
-  <file name="goals.html" crc="3786877075" seo="true" mt="1459424573084" redirect="true"/>
-  <file name="post-001.html" crc="122328773" seo="true" mt="1459424573084" redirect="true"/>
-  <file name="general.html" crc="4002357381" seo="true" mt="1459424573084" redirect="true"/>
-  <file name="design.html" crc="33780888" seo="true" mt="1459424573084" redirect="true"/>
-  <file name="development.html" crc="211001903" seo="true" mt="1459424573084" redirect="true"/>
-  <file name="contact.html" crc="4220183237" seo="true" mt="1459424573084" redirect="true"/>
+  <file name="index.html" crc="4032824559" seo="true" mt="1459433470042" redirect="true"/>
+  <file name="mission.html" crc="315603412" seo="true" mt="1459433472607" redirect="true"/>
+  <file name="blog.html" crc="124691334" seo="true" mt="1459433475192" redirect="true"/>
+  <file name="forum.html" crc="3997982705" seo="true" mt="1459433477727" redirect="true"/>
+  <file name="contact.html" crc="495269290" seo="true" mt="1459433480245" redirect="true"/>
 </manifest>

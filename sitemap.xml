@@ -7,55 +7,19 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://index.html/blog.html</loc>
-    <lastmod>2016-03-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://index.html/mission.html</loc>
     <lastmod>2016-03-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://index.html/blog.html</loc>
+    <lastmod>2016-03-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://index.html/forum.html</loc>
-    <lastmod>2016-03-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://index.html/timeline.html</loc>
-    <lastmod>2016-03-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://index.html/goals.html</loc>
-    <lastmod>2016-03-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://index.html/post-001.html</loc>
-    <lastmod>2016-03-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://index.html/general.html</loc>
-    <lastmod>2016-03-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://index.html/design.html</loc>
-    <lastmod>2016-03-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://index.html/development.html</loc>
     <lastmod>2016-03-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
