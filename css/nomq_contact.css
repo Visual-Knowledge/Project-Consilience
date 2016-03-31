@@ -10,6 +10,8 @@
 
 	#page
 	{
+		min-height: 460px;
+		padding-bottom: 40px;
 		max-width: 1400px;
 	}
 
@@ -18,55 +20,39 @@
 		left: 1.5%;
 	}
 
-	#u1405-4
-	{
-		z-index: 12;
-		min-height: 18px;
-		position: relative;
-		margin-right: -10000px;
-		margin-top: 11px;
-		width: 11.29%;
-		left: 25.36%;
-	}
-
 	#u1408-4
 	{
-		z-index: 16;
-		min-height: 18px;
-		position: relative;
-		margin-right: -10000px;
-		margin-top: 11px;
-		width: 11.22%;
+		width: 157px;
 		left: 38.08%;
 	}
 
 	#u1411-4
 	{
-		z-index: 20;
-		min-height: 18px;
-		position: relative;
-		margin-right: -10000px;
-		margin-top: 11px;
-		width: 11.29%;
+		width: 158px;
 		left: 50.72%;
 	}
 
 	#u1414-4
 	{
-		z-index: 24;
-		min-height: 18px;
-		position: relative;
-		margin-right: -10000px;
-		margin-top: 11px;
-		width: 11.29%;
+		width: 158px;
 		left: 63.36%;
+	}
+
+	#pu1186
+	{
+		margin-top: 60px;
+		width: 100%;
+	}
+
+	#u4259-6
+	{
+		width: 1552px;
+		margin-right: -10000px;
+		left: -5.43%;
 	}
 
 	#u481-4
 	{
-		z-index: 28;
-		position: fixed;
-		top: 9px;
-		right: -1px;
+		bottom: -33px;
 	}
 

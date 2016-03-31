@@ -193,6 +193,42 @@ a.nontext /* used to override default properties of 'a' tag */
 	padding: 0px 0px 24px;
 }
 
+.Name
+{
+	color: #000000;
+	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
+	font-size: 20px;
+	padding: 0px;
+}
+
+.Position
+{
+	color: #7F7F7F;
+	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
+	font-size: 14px;
+	padding: 0px;
+}
+
+.Quote
+{
+	color: #F7931E;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-size: 90px;
+	font-weight: bold;
+	line-height: 144px;
+	padding: 0px;
+}
+
+.Feedback
+{
+	color: #7F7F7F;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	font-size: 20px;
+	font-style: italic;
+	line-height: 30px;
+	padding: 0px;
+}
+
 .list0 li:before
 {
 	position: absolute;

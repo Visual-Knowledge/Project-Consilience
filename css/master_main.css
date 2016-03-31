@@ -1,27 +1,39 @@
 #u843-3
 {
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=83)";
-	filter: alpha(opacity=83);
 	-pie-background: linear-gradient(left,#00006C ,#00407B 66%);
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=83)";
 	opacity: 0.83;
+	filter: alpha(opacity=83);
 	background-size: 100% auto;
 }
 
-#u477-6_img,#u481-4
+#u1408-4,#u1411-4,#u1414-4
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 15px;
+	text-align: center;
+	font-family: advent-pro, sans-serif;
+	letter-spacing: 2px;
+	line-height: 18px;
+	font-weight: 400;
+}
+
+#u1186
+{
+	background-color: #998675;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=32)";
+	opacity: 0.32;
+	filter: alpha(opacity=32);
+}
+
+#u477-6_img,#u4259-6_img,#u481-4
 {
 	vertical-align: top;
 	display: block;
 }
 
-#u1186
-{
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=32)";
-	background-color: #998675;
-	filter: alpha(opacity=32);
-	opacity: 0.32;
-}
-
-@media (min-width: 900px)
+@media (min-width: 968px)
 {
 	#u843-3
 	{
@@ -30,21 +42,9 @@
 		background: linear-gradient(to right,#00006C ,#00407B 66%);
 	}
 
-	#u1405-4,#u1408-4,#u1411-4,#u1414-4
-	{
-		background-color: transparent;
-		font-size: 15px;
-		line-height: 18px;
-		color: #FFFFFF;
-		text-align: center;
-		letter-spacing: 2px;
-		font-family: advent-pro, sans-serif;
-		font-weight: 400;
-	}
-
 }
 
-@media (max-width: 899px)
+@media (max-width: 967px)
 {
 	#u843-3
 	{

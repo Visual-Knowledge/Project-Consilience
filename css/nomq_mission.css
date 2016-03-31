@@ -13,60 +13,237 @@
 		max-width: 1400px;
 	}
 
-	#u477-6
+	#u3792-6
 	{
 		left: 1.5%;
 	}
 
-	#u1405-4
+	#u3794-4
 	{
-		z-index: 12;
-		min-height: 18px;
-		position: relative;
-		margin-right: -10000px;
-		margin-top: 11px;
-		width: 11.29%;
-		left: 25.36%;
-	}
-
-	#u1408-4
-	{
-		z-index: 16;
-		min-height: 18px;
-		position: relative;
-		margin-right: -10000px;
-		margin-top: 11px;
-		width: 11.22%;
+		width: 157px;
 		left: 38.08%;
 	}
 
-	#u1411-4
+	#u3793-4
 	{
-		z-index: 20;
-		min-height: 18px;
-		position: relative;
-		margin-right: -10000px;
-		margin-top: 11px;
-		width: 11.29%;
+		width: 158px;
 		left: 50.72%;
 	}
 
-	#u1414-4
+	#u3791-4
 	{
-		z-index: 24;
-		min-height: 18px;
-		position: relative;
-		margin-right: -10000px;
-		margin-top: 11px;
-		width: 11.29%;
+		width: 158px;
 		left: 63.36%;
 	}
 
-	#u481-4
+	#u3795
 	{
-		z-index: 28;
-		position: fixed;
-		top: 9px;
-		right: -1px;
+		width: 62px;
+		left: 28.79%;
+	}
+
+	#u4015
+	{
+		width: 35.89%;
+	}
+
+	#u4014-4
+	{
+		width: 60.29%;
+		left: 35.89%;
+	}
+
+	#u4000
+	{
+		width: 20.1%;
+		left: 19.91%;
+	}
+
+	#u4002
+	{
+		width: 35.72%;
+	}
+
+	#u4003-4
+	{
+		width: 60.48%;
+		left: 35.72%;
+	}
+
+	#u4008
+	{
+		width: 20.1%;
+		left: 39.91%;
+	}
+
+	#u4000.TabbedPanelsTabSelected #u4002,#u4011
+	{
+		width: 35.72%;
+	}
+
+	#u4009-4
+	{
+		width: 60.48%;
+		left: 35.72%;
+	}
+
+	#u3996
+	{
+		width: 20.1%;
+		left: 59.91%;
+	}
+
+	#u4008.TabbedPanelsTabSelected #u4011,#u3999
+	{
+		width: 35.72%;
+	}
+
+	#u3998-4
+	{
+		width: 60.48%;
+		left: 35.72%;
+	}
+
+	#u4004
+	{
+		width: 20.1%;
+		left: 79.91%;
+	}
+
+	#u3996.TabbedPanelsTabSelected #u3999,#u4005
+	{
+		width: 35.72%;
+	}
+
+	#u4006-4
+	{
+		width: 64.29%;
+		left: 35.72%;
+	}
+
+	#u4017,#u4026,#u4023,#u4020,#u4029
+	{
+		padding-bottom: 104px;
+	}
+
+	#tab-panelu3994,#tab-panelu3231
+	{
+		width: 74.65%;
+		left: 25.36%;
+	}
+
+	#u4012.TabbedPanelsTabSelected #u4015,#u3260
+	{
+		width: 35.89%;
+	}
+
+	#u3257.TabbedPanelsTabSelected #u3260
+	{
+		width: 35.89%;
+	}
+
+	#u3258-4
+	{
+		width: 60.29%;
+		left: 35.89%;
+	}
+
+	#u4012.TabbedPanelsTabSelected #u4014-4,#u3257.TabbedPanelsTabSelected #u3258-4
+	{
+		width: 60.29%;
+	}
+
+	#u3253
+	{
+		width: 20.1%;
+		left: 19.91%;
+	}
+
+	#u4004.TabbedPanelsTabSelected #u4005,#u3255
+	{
+		width: 35.72%;
+	}
+
+	#u3256-4
+	{
+		width: 60.48%;
+		left: 35.72%;
+	}
+
+	#u3261
+	{
+		width: 20.1%;
+		left: 39.91%;
+	}
+
+	#u3253.TabbedPanelsTabSelected #u3255,#u3262
+	{
+		width: 35.72%;
+	}
+
+	#u3264-4
+	{
+		width: 60.48%;
+		left: 35.72%;
+	}
+
+	#u3265
+	{
+		width: 20.1%;
+		left: 59.91%;
+	}
+
+	#u3261.TabbedPanelsTabSelected #u3262,#u3267
+	{
+		width: 35.72%;
+	}
+
+	#u3268-4
+	{
+		width: 60.48%;
+		left: 35.72%;
+	}
+
+	#u4000.TabbedPanelsTabSelected #u4003-4,#u4008.TabbedPanelsTabSelected #u4009-4,#u3996.TabbedPanelsTabSelected #u3998-4,#u3253.TabbedPanelsTabSelected #u3256-4,#u3261.TabbedPanelsTabSelected #u3264-4,#u3265.TabbedPanelsTabSelected #u3268-4
+	{
+		width: 60.48%;
+	}
+
+	#u3249
+	{
+		width: 20.1%;
+		left: 79.91%;
+	}
+
+	#u4000.TabbedPanelsTabSelected,#u4008.TabbedPanelsTabSelected,#u3996.TabbedPanelsTabSelected,#u4004.TabbedPanelsTabSelected,#u3253.TabbedPanelsTabSelected,#u3261.TabbedPanelsTabSelected,#u3265.TabbedPanelsTabSelected,#u3249.TabbedPanelsTabSelected
+	{
+		width: 20.1%;
+	}
+
+	#u3265.TabbedPanelsTabSelected #u3267,#u3250
+	{
+		width: 35.72%;
+	}
+
+	#u3249.TabbedPanelsTabSelected #u3250
+	{
+		width: 35.72%;
+	}
+
+	#u3251-4
+	{
+		width: 64.29%;
+		left: 35.72%;
+	}
+
+	#u4004.TabbedPanelsTabSelected #u4006-4,#u3249.TabbedPanelsTabSelected #u3251-4
+	{
+		width: 64.29%;
+	}
+
+	#u4018,#u4027,#u4024,#u4021,#u4030,#u3246,#u3237,#u3240,#u3243,#u3234
+	{
+		width: 13.69%;
+		left: 40.1%;
 	}
 
