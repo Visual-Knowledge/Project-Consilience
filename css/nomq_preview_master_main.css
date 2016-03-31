@@ -17,7 +17,7 @@
 		color: #FFFFFF;
 		text-align: center;
 		font-family: dosis, sans-serif;
-		font-weight: 300;
+		font-weight: 400;
 	}
 
 	#u12732-4:hover
@@ -50,11 +50,6 @@
 		border-radius: 0px 0px 3px 3px ;
 	}
 
-	#u12732-4:active p
-	{
-		letter-spacing: 3px;
-	}
-
 	#u5084-4
 	{
 		background-color: transparent;
@@ -67,7 +62,7 @@
 		color: #FFFFFF;
 		text-align: center;
 		font-family: dosis, sans-serif;
-		font-weight: 300;
+		font-weight: 400;
 	}
 
 	#u5084-4:hover
@@ -100,11 +95,6 @@
 		box-shadow: inset 0px 0px 27px rgba(136,171,201,0.08), inset 0px 0px 27px rgba(136,171,201,0.08);
 	}
 
-	#u5084-4:active p
-	{
-		letter-spacing: 3px;
-	}
-
 	#u12720-4
 	{
 		background-color: transparent;
@@ -117,7 +107,7 @@
 		color: #FFFFFF;
 		text-align: center;
 		font-family: dosis, sans-serif;
-		font-weight: 300;
+		font-weight: 400;
 	}
 
 	#u12720-4:hover
@@ -150,11 +140,6 @@
 		border-radius: 0px 0px 3px 3px ;
 	}
 
-	#u12720-4:active p
-	{
-		letter-spacing: 3px;
-	}
-
 	#u12726-4
 	{
 		background-color: transparent;
@@ -167,7 +152,7 @@
 		color: #FFFFFF;
 		text-align: center;
 		font-family: dosis, sans-serif;
-		font-weight: 300;
+		font-weight: 400;
 	}
 
 	#u12726-4:hover
@@ -209,16 +194,10 @@
 		border-radius: 0px;
 	}
 
-	#u12726-4:active p
-	{
-		letter-spacing: 3px;
-	}
-
 	#u12732-4.MuseLinkActive p,#u5084-4.MuseLinkActive p,#u12720-4.MuseLinkActive p,#u12726-4.MuseLinkActive p
 	{
 		color: #DDDD6A;
 		visibility: inherit;
-		letter-spacing: 2px;
 	}
 
 	#u11790-5

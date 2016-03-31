@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.1.1.343" opt="false" iceEnabled="false" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1459435845293">
+<manifest alg="2" build="2015.1.1.343" opt="false" iceEnabled="false" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1459436225559">
   <folder name="css">
     <file name="site_global.css" crc="4256542708"/>
-    <file name="master_main.css" crc="59089078" ref="index:blog:forum:contact:mission"/>
-    <file name="nomq_preview_master_main.css" crc="87994182" ref="index:blog:forum:contact:mission"/>
+    <file name="master_main.css" crc="458331167" ref="index:blog:forum:contact:mission"/>
+    <file name="nomq_preview_master_main.css" crc="364945401" ref="index:blog:forum:contact:mission"/>
     <file name="index.css" crc="516726431" ref="index"/>
     <file name="nomq_index.css" crc="173740119" ref="index"/>
     <file name="blog.css" crc="4158050426" ref="blog"/>
@@ -31,9 +31,9 @@
     <file name="menu_icon_04_white_3line-crop-u7444.png" crc="3989612675" ref="index:mission:blog:forum:contact"/>
     <file name="blank.gif" crc="4208392903" ref="index:mission:blog:forum:contact"/>
   </folder>
-  <file name="index.html" crc="242444871" seo="true" mt="1459435810451" redirect="true"/>
-  <file name="mission.html" crc="4136495736" seo="true" mt="1459435838746" redirect="true"/>
-  <file name="blog.html" crc="4195269485" seo="true" mt="1459435840448" redirect="true"/>
-  <file name="forum.html" crc="398504626" seo="true" mt="1459435841917" redirect="true"/>
-  <file name="contact.html" crc="479028004" seo="true" mt="1459435843330" redirect="true"/>
+  <file name="index.html" crc="4063277477" seo="true" mt="1459436200011" redirect="true"/>
+  <file name="mission.html" crc="4275987177" seo="true" mt="1459436216406" redirect="true"/>
+  <file name="blog.html" crc="282228788" seo="true" mt="1459436218594" redirect="true"/>
+  <file name="forum.html" crc="345868065" seo="true" mt="1459436220405" redirect="true"/>
+  <file name="contact.html" crc="3794828675" seo="true" mt="1459436222935" redirect="true"/>
 </manifest>
