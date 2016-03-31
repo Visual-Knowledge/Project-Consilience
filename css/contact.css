@@ -1,7 +1,7 @@
 .version.contact /* version checker */
 {
-	color: #00001C;
-	background-color: #F00F31;
+	color: #0000FB;
+	background-color: #D6A986;
 }
 
 .js body
@@ -268,7 +268,6 @@ body
 		bottom: 10px;
 		right: 0px;
 	}
-
 }
 
 @media (min-width: 1117px) and (max-width: 1265px)
@@ -694,7 +693,6 @@ body
 		bottom: 10px;
 		right: 0px;
 	}
-
 }
 
 @media (min-width: 934px) and (max-width: 973px)
@@ -887,7 +885,6 @@ body
 		bottom: 10px;
 		right: 0px;
 	}
-
 }
 
 @media (min-width: 717px) and (max-width: 933px)
@@ -1079,7 +1076,6 @@ body
 		bottom: 10px;
 		right: 0px;
 	}
-
 }
 
 @media (max-width: 716px)
