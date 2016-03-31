@@ -1,194 +1,3 @@
-#u3708-3
-{
-	-pie-background: linear-gradient(left,#00006C ,#00407B 66%);
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=83)";
-	opacity: 0.83;
-	filter: alpha(opacity=83);
-	background-size: 100% auto;
-}
-
-#u3794-4,#u3793-4,#u3791-4
-{
-	background-color: transparent;
-	color: #FFFFFF;
-	font-size: 15px;
-	text-align: center;
-	font-family: advent-pro, sans-serif;
-	letter-spacing: 2px;
-	line-height: 18px;
-	font-weight: 400;
-}
-
-#u3709
-{
-	background-color: #998675;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=32)";
-	opacity: 0.32;
-	filter: alpha(opacity=32);
-}
-
-#tab-panelu3994,#u3995
-{
-	background-color: transparent;
-	border-width: 0px;
-	border-color: transparent;
-}
-
-#u4012
-{
-	background-color: #DF4848;
-	border-style: solid;
-	border-color: #FFFFFF;
-	border-width: 0px 8px 8px 0px;
-}
-
-#u4015
-{
-	background: transparent url("../images/01.png") no-repeat center center;
-	background-size: contain;
-}
-
-#u4000
-{
-	background-color: #E27A3F;
-	border-style: solid;
-	border-color: #FFFFFF;
-	border-width: 0px 8px 8px 0px;
-}
-
-#u4002
-{
-	background: transparent url("../images/02.png") no-repeat center center;
-}
-
-#u4000.TabbedPanelsTabSelected #u4002
-{
-	background-repeat: no-repeat;
-	background-position: center center;
-}
-
-#u4008
-{
-	background-color: #EFC94B;
-	border-style: solid;
-	border-color: #FFFFFF;
-	border-width: 0px 8px 8px 0px;
-}
-
-#u4011
-{
-	background: transparent url("../images/03.png") no-repeat center center;
-	background-size: contain;
-}
-
-#u3996
-{
-	background-color: #44B29D;
-	border-style: solid;
-	border-color: #FFFFFF;
-	border-width: 0px 8px 8px 0px;
-}
-
-#u4012.TabbedPanelsTabSelected,#u4000.TabbedPanelsTabSelected,#u4008.TabbedPanelsTabSelected,#u3996.TabbedPanelsTabSelected
-{
-	border-style: solid;
-	border-width: 0px 8px 0px 0px;
-}
-
-#u3999
-{
-	background: transparent url("../images/04.png") no-repeat center center;
-	background-size: contain;
-}
-
-#u4004
-{
-	background-color: #334D5B;
-	border-style: solid;
-	border-color: #FFFFFF;
-	border-radius: 0px;
-	border-width: 0px 0px 8px;
-}
-
-#u4004.TabbedPanelsTabSelected
-{
-	border-width: 0px;
-}
-
-#u4005
-{
-	background: transparent url("../images/05.png") no-repeat center center;
-	background-size: contain;
-}
-
-#u4012.TabbedPanelsTabSelected #u4015,#u4008.TabbedPanelsTabSelected #u4011,#u3996.TabbedPanelsTabSelected #u3999,#u4004.TabbedPanelsTabSelected #u4005
-{
-	background-repeat: no-repeat;
-	background-position: center center;
-	background-size: contain;
-}
-
-#u4014-4,#u4003-4,#u4009-4,#u3998-4,#u4006-4
-{
-	background-color: transparent;
-	color: #FFFFFF;
-	font-size: 15px;
-	text-align: left;
-	border-color: #999999;
-	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
-	line-height: 21px;
-}
-
-#u4017
-{
-	background-color: #DF4848;
-	border-width: 0px;
-	border-color: transparent;
-}
-
-#u4026
-{
-	background-color: #E27A3F;
-	border-width: 0px;
-	border-color: transparent;
-}
-
-#u4023
-{
-	background-color: #EFC94B;
-	border-width: 0px;
-	border-color: transparent;
-}
-
-#u4020
-{
-	background-color: #49B19D;
-	border-width: 0px;
-	border-color: transparent;
-}
-
-#u4029
-{
-	background-color: #344D5A;
-	border-width: 0px;
-	border-color: transparent;
-}
-
-#u3795,#u4016,#u4018,#u4027,#u4024,#u4021,#u4030
-{
-	background-color: transparent;
-}
-
-.TabbedPanelsTab
-{
-	cursor: pointer;
-}
-
-#u3792-6_img,#u3706-4
-{
-	vertical-align: top;
-	display: block;
-}
 
 @media (min-width: 968px)
 {
@@ -197,8 +6,239 @@
 		background: -webkit-gradient(linear, left center, right center, from(#00006C),color-stop(66%, #00407B));
 		background: -webkit-linear-gradient(left,#00006C ,#00407B 66%);
 		background: linear-gradient(to right,#00006C ,#00407B 66%);
+		-pie-background: linear-gradient(left,#00006C ,#00407B 66%);
+		opacity: 0.83;
+		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=83)";
+		filter: alpha(opacity=83);
+		background-size: 100% auto;
 	}
 
+	#u3794-4,#u3793-4,#u3791-4
+	{
+		background-color: transparent;
+		line-height: 18px;
+		font-size: 15px;
+		letter-spacing: 2px;
+		color: #FFFFFF;
+		text-align: center;
+		font-family: advent-pro, sans-serif;
+		font-weight: 400;
+	}
+
+	#u3709
+	{
+		background-color: #998675;
+		opacity: 0.32;
+		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=32)";
+		filter: alpha(opacity=32);
+	}
+
+	#tab-panelu3994,#u3995
+	{
+		border-width: 0px;
+		border-color: transparent;
+		background-color: transparent;
+	}
+
+	#u4012
+	{
+		border-style: solid;
+		border-color: #FFFFFF;
+		background-color: #DF4848;
+		border-width: 0px 8px 8px 0px;
+	}
+
+	#u4015
+	{
+		background: transparent url("../images/01.png") no-repeat center center;
+		background-size: contain;
+	}
+
+	#u4014-4
+	{
+		border-color: #999999;
+		background-color: transparent;
+		color: #FFFFFF;
+		line-height: 21px;
+		font-size: 15px;
+		text-align: left;
+		font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	}
+
+	#u4000
+	{
+		border-style: solid;
+		border-color: #FFFFFF;
+		background-color: #E27A3F;
+		border-width: 0px 8px 8px 0px;
+	}
+
+	#u4002
+	{
+		background: transparent url("../images/02.png") no-repeat center center;
+	}
+
+	#u4000.TabbedPanelsTabSelected #u4002
+	{
+		background-repeat: no-repeat;
+		background-position: center center;
+	}
+
+	#u4003-4
+	{
+		border-color: #999999;
+		background-color: transparent;
+		color: #FFFFFF;
+		line-height: 21px;
+		font-size: 15px;
+		text-align: left;
+		font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	}
+
+	#u4008
+	{
+		border-style: solid;
+		border-color: #FFFFFF;
+		background-color: #EFC94B;
+		border-width: 0px 8px 8px 0px;
+	}
+
+	#u4011
+	{
+		background: transparent url("../images/03.png") no-repeat center center;
+		background-size: contain;
+	}
+
+	#u4009-4
+	{
+		border-color: #999999;
+		background-color: transparent;
+		color: #FFFFFF;
+		line-height: 21px;
+		font-size: 15px;
+		text-align: left;
+		font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	}
+
+	#u3996
+	{
+		border-style: solid;
+		border-color: #FFFFFF;
+		background-color: #44B29D;
+		border-width: 0px 8px 8px 0px;
+	}
+
+	#u4012.TabbedPanelsTabSelected,#u4000.TabbedPanelsTabSelected,#u4008.TabbedPanelsTabSelected,#u3996.TabbedPanelsTabSelected
+	{
+		border-style: solid;
+		border-width: 0px 8px 0px 0px;
+	}
+
+	#u3999
+	{
+		background: transparent url("../images/04.png") no-repeat center center;
+		background-size: contain;
+	}
+
+	#u3998-4
+	{
+		border-color: #999999;
+		background-color: transparent;
+		color: #FFFFFF;
+		line-height: 21px;
+		font-size: 15px;
+		text-align: left;
+		font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	}
+
+	#u4004
+	{
+		border-style: solid;
+		border-color: #FFFFFF;
+		background-color: #334D5B;
+		border-radius: 0px;
+		border-width: 0px 0px 8px;
+	}
+
+	#u4004.TabbedPanelsTabSelected
+	{
+		border-width: 0px;
+	}
+
+	#u4005
+	{
+		background: transparent url("../images/05.png") no-repeat center center;
+		background-size: contain;
+	}
+
+	#u4012.TabbedPanelsTabSelected #u4015,#u4008.TabbedPanelsTabSelected #u4011,#u3996.TabbedPanelsTabSelected #u3999,#u4004.TabbedPanelsTabSelected #u4005
+	{
+		background-repeat: no-repeat;
+		background-position: center center;
+		background-size: contain;
+	}
+
+	#u4006-4
+	{
+		border-color: #999999;
+		background-color: transparent;
+		color: #FFFFFF;
+		line-height: 21px;
+		font-size: 15px;
+		text-align: left;
+		font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	}
+
+	#u4017
+	{
+		border-width: 0px;
+		border-color: transparent;
+		background-color: #DF4848;
+	}
+
+	#u4026
+	{
+		border-width: 0px;
+		border-color: transparent;
+		background-color: #E27A3F;
+	}
+
+	#u4023
+	{
+		border-width: 0px;
+		border-color: transparent;
+		background-color: #EFC94B;
+	}
+
+	#u4020
+	{
+		border-width: 0px;
+		border-color: transparent;
+		background-color: #49B19D;
+	}
+
+	#u4029
+	{
+		border-width: 0px;
+		border-color: transparent;
+		background-color: #344D5A;
+	}
+
+	#u3795,#u4016,#u4018,#u4027,#u4024,#u4021,#u4030
+	{
+		background-color: transparent;
+	}
+
+	.TabbedPanelsTab /* tabset */
+	{
+		cursor: pointer;
+	}
+
+	#u3792-6,#u3706-4
+	{
+		display: block;
+		vertical-align: top;
+	}
 }
 
 @media (max-width: 967px)
@@ -208,7 +248,240 @@
 		background: -webkit-gradient(linear, left center, right center, from(#00006C),color-stop(66%, #00407B));
 		background: -webkit-linear-gradient(left,#00006C ,#00407B 66%);
 		background: linear-gradient(to right,#00006C ,#00407B 66%);
+		-pie-background: linear-gradient(left,#00006C ,#00407B 66%);
+		opacity: 0.83;
+		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=83)";
+		filter: alpha(opacity=83);
+		background-size: 100% auto;
 	}
 
+	#u3794-4,#u3793-4,#u3791-4
+	{
+		background-color: transparent;
+		line-height: 18px;
+		font-size: 15px;
+		letter-spacing: 2px;
+		color: #FFFFFF;
+		text-align: center;
+		font-family: advent-pro, sans-serif;
+		font-weight: 400;
+	}
+
+	#u3709
+	{
+		background-color: #998675;
+		opacity: 0.32;
+		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=32)";
+		filter: alpha(opacity=32);
+	}
+
+	#tab-panelu3994,#u3995
+	{
+		border-width: 0px;
+		border-color: transparent;
+		background-color: transparent;
+	}
+
+	#u4012
+	{
+		border-style: solid;
+		border-color: #FFFFFF;
+		background-color: #DF4848;
+		border-width: 0px 8px 8px 0px;
+	}
+
+	#u4015
+	{
+		background: transparent url("../images/01.png") no-repeat center center;
+		background-size: contain;
+	}
+
+	#u4014-4
+	{
+		border-color: #999999;
+		background-color: transparent;
+		color: #FFFFFF;
+		line-height: 21px;
+		font-size: 15px;
+		text-align: left;
+		font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	}
+
+	#u4000
+	{
+		border-style: solid;
+		border-color: #FFFFFF;
+		background-color: #E27A3F;
+		border-width: 0px 8px 8px 0px;
+	}
+
+	#u4002
+	{
+		background: transparent url("../images/02.png") no-repeat center center;
+	}
+
+	#u4000.TabbedPanelsTabSelected #u4002
+	{
+		background-repeat: no-repeat;
+		background-position: center center;
+	}
+
+	#u4003-4
+	{
+		border-color: #999999;
+		background-color: transparent;
+		color: #FFFFFF;
+		line-height: 21px;
+		font-size: 15px;
+		text-align: left;
+		font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	}
+
+	#u4008
+	{
+		border-style: solid;
+		border-color: #FFFFFF;
+		background-color: #EFC94B;
+		border-width: 0px 8px 8px 0px;
+	}
+
+	#u4011
+	{
+		background: transparent url("../images/03.png") no-repeat center center;
+		background-size: contain;
+	}
+
+	#u4009-4
+	{
+		border-color: #999999;
+		background-color: transparent;
+		color: #FFFFFF;
+		line-height: 21px;
+		font-size: 15px;
+		text-align: left;
+		font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	}
+
+	#u3996
+	{
+		border-style: solid;
+		border-color: #FFFFFF;
+		background-color: #44B29D;
+		border-width: 0px 8px 8px 0px;
+	}
+
+	#u4012.TabbedPanelsTabSelected,#u4000.TabbedPanelsTabSelected,#u4008.TabbedPanelsTabSelected,#u3996.TabbedPanelsTabSelected
+	{
+		border-style: solid;
+		border-width: 0px 8px 0px 0px;
+	}
+
+	#u3999
+	{
+		background: transparent url("../images/04.png") no-repeat center center;
+		background-size: contain;
+	}
+
+	#u3998-4
+	{
+		border-color: #999999;
+		background-color: transparent;
+		color: #FFFFFF;
+		line-height: 21px;
+		font-size: 15px;
+		text-align: left;
+		font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	}
+
+	#u4004
+	{
+		border-style: solid;
+		border-color: #FFFFFF;
+		background-color: #334D5B;
+		border-radius: 0px;
+		border-width: 0px 0px 8px;
+	}
+
+	#u4004.TabbedPanelsTabSelected
+	{
+		border-width: 0px;
+	}
+
+	#u4005
+	{
+		background: transparent url("../images/05.png") no-repeat center center;
+		background-size: contain;
+	}
+
+	#u4012.TabbedPanelsTabSelected #u4015,#u4008.TabbedPanelsTabSelected #u4011,#u3996.TabbedPanelsTabSelected #u3999,#u4004.TabbedPanelsTabSelected #u4005
+	{
+		background-repeat: no-repeat;
+		background-position: center center;
+		background-size: contain;
+	}
+
+	#u4006-4
+	{
+		border-color: #999999;
+		background-color: transparent;
+		color: #FFFFFF;
+		line-height: 21px;
+		font-size: 15px;
+		text-align: left;
+		font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	}
+
+	#u4017
+	{
+		border-width: 0px;
+		border-color: transparent;
+		background-color: #DF4848;
+	}
+
+	#u4026
+	{
+		border-width: 0px;
+		border-color: transparent;
+		background-color: #E27A3F;
+	}
+
+	#u4023
+	{
+		border-width: 0px;
+		border-color: transparent;
+		background-color: #EFC94B;
+	}
+
+	#u4020
+	{
+		border-width: 0px;
+		border-color: transparent;
+		background-color: #49B19D;
+	}
+
+	#u4029
+	{
+		border-width: 0px;
+		border-color: transparent;
+		background-color: #344D5A;
+	}
+
+	#u3795,#u4016,#u4018,#u4027,#u4024,#u4021,#u4030
+	{
+		background-color: transparent;
+	}
+
+	.TabbedPanelsTab /* tabset */
+	{
+		cursor: pointer;
+	}
+
+	#u3792-6,#u3706-4
+	{
+		display: block;
+		vertical-align: top;
+	}
 }
+
+
 

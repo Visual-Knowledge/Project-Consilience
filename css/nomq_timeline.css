@@ -10,45 +10,150 @@
 
 	#page
 	{
+		min-height: 44px;
+		padding-bottom: 456px;
 		max-width: 1400px;
 	}
 
-	#page_position_content
+	#pu843-3
 	{
-		padding-bottom: 30px;
+		width: 100%;
 	}
 
-	#u477-6
+	#u843-3,#u843-3-bw
 	{
-		left: 1.5%;
+		min-height: 41px;
 	}
 
-	#u1408-4
+	#u5072-4
 	{
-		width: 157px;
-		left: 38.08%;
+		z-index: 6;
+		width: 67px;
+		min-height: 18px;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 11px;
+		left: 41.29%;
 	}
 
-	#u1411-4
+	#u5072-4:hover
 	{
-		width: 158px;
-		left: 50.72%;
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 18px;
+		width: 67px;
+		margin: 11px -10000px 0px 0%;
 	}
 
-	#u1414-4
+	#u5072-4:active
 	{
-		width: 158px;
-		left: 63.36%;
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 18px;
+		width: 67px;
+		margin: 11px -10000px 0px 0%;
 	}
 
-	#u4259-6
+	#u5078-4
 	{
-		margin-top: 74px;
-		left: -5.43%;
+		z-index: 10;
+		width: 41px;
+		min-height: 18px;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 11px;
+		left: 54.86%;
+	}
+
+	#u5078-4:hover
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 18px;
+		width: 41px;
+		margin: 11px -10000px 0px 0%;
+	}
+
+	#u5078-4:active
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 18px;
+		width: 41px;
+		margin: 11px -10000px 0px 0%;
+	}
+
+	#u5084-4
+	{
+		z-index: 14;
+		width: 50px;
+		min-height: 18px;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 11px;
+		left: 67.22%;
+	}
+
+	#u5084-4:hover
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 18px;
+		width: 50px;
+		margin: 11px -10000px 0px 0%;
+	}
+
+	#u5084-4:active
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 18px;
+		width: 50px;
+		margin: 11px -10000px 0px 0%;
+	}
+
+	#u5090-4
+	{
+		z-index: 18;
+		width: 60px;
+		min-height: 18px;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 11px;
+		left: 79.58%;
+	}
+
+	#u5090-4:hover
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 18px;
+		width: 60px;
+		margin: 11px -10000px 0px 0%;
+	}
+
+	#u5090-4:active
+	{
+		padding-top: 0px;
+		padding-bottom: 0px;
+		min-height: 18px;
+		width: 60px;
+		margin: 11px -10000px 0px 0%;
+	}
+
+	#u8372-5
+	{
+		z-index: 26;
+		width: 223px;
+		min-height: 32px;
+		position: fixed;
+		top: 8px;
+		left: 22px;
 	}
 
 	#u481-4
 	{
-		bottom: -33px;
+		z-index: 22;
+		bottom: 10px;
 	}
 

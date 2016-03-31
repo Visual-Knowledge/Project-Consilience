@@ -229,6 +229,15 @@ a.nontext /* used to override default properties of 'a' tag */
 	padding: 0px;
 }
 
+.Menu-Buttons
+{
+	color: #383838;
+	font-family: dosis, sans-serif;
+	font-size: 16px;
+	font-weight: 300;
+	letter-spacing: 3px;
+}
+
 .list0 li:before
 {
 	position: absolute;
