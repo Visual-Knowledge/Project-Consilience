@@ -1,0 +1,20 @@
+	#u843-3
+	{
+		background: -webkit-gradient(linear, left center, right center, from(#00006C),color-stop(66%, #00407B));
+		background: -webkit-linear-gradient(left,#00006C ,#00407B 66%);
+		background: linear-gradient(to right,#00006C ,#00407B 66%);
+	}
+
+	#u1405-4,#u1408-4,#u1411-4,#u1414-4
+	{
+		background-color: transparent;
+		font-size: 15px;
+		line-height: 18px;
+		color: #FFFFFF;
+		text-align: center;
+		letter-spacing: 2px;
+		font-family: advent-pro, sans-serif;
+		font-weight: 400;
+	}
+
+

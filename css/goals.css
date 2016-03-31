@@ -1,0 +1,186 @@
+.version.goals /* version checker */
+{
+	color: #00001B;
+	background-color: #450F64;
+}
+
+.js body
+{
+	visibility: hidden;
+}
+
+.js body.initialized
+{
+	visibility: visible;
+}
+
+#page
+{
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 455px;
+	margin-left: auto;
+	border-width: 0px;
+	width: 100%;
+	z-index: 1;
+	min-height: 45px;
+	margin-right: auto;
+	background-image: none;
+}
+
+#pu843-3
+{
+	width: 100%;
+}
+
+#u843-3,#u843-3-bw
+{
+	z-index: 2;
+	min-height: 41px;
+}
+
+#u477-6
+{
+	position: relative;
+	width: 213px;
+	margin-top: 7px;
+	z-index: 6;
+	margin-right: -10000px;
+}
+
+#u1186
+{
+	z-index: 5;
+	height: 3px;
+}
+
+#u1186-bw
+{
+	margin-top: 1px;
+	z-index: 5;
+	height: 3px;
+}
+
+.html
+{
+	background-color: #173840;
+}
+
+body
+{
+	position: relative;
+}
+
+@media (min-width: 900px)
+{
+	#muse_css_mq
+	{
+		background-color: #FFFFFF;
+	}
+
+	#bp_infinity.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		max-width: 1400px;
+	}
+
+	#u477-6
+	{
+		left: 1.5%;
+	}
+
+	#u1405-4
+	{
+		z-index: 12;
+		min-height: 18px;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 11px;
+		width: 11.29%;
+		left: 25.36%;
+	}
+
+	#u1408-4
+	{
+		z-index: 16;
+		min-height: 18px;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 11px;
+		width: 11.22%;
+		left: 38.08%;
+	}
+
+	#u1411-4
+	{
+		z-index: 20;
+		min-height: 18px;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 11px;
+		width: 11.29%;
+		left: 50.72%;
+	}
+
+	#u1414-4
+	{
+		z-index: 24;
+		min-height: 18px;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 11px;
+		width: 11.29%;
+		left: 63.36%;
+	}
+
+	#u481-4
+	{
+		z-index: 28;
+		position: fixed;
+		top: 9px;
+		right: -1px;
+	}
+}
+
+@media (max-width: 899px)
+{
+	#muse_css_mq
+	{
+		background-color: #000383;
+	}
+
+	#bp_899.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		max-width: 899px;
+	}
+
+	#u477-6
+	{
+		left: 13px;
+	}
+
+	#u481-4
+	{
+		z-index: 12;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 9px;
+		margin-left: 0%;
+		left: 688px;
+	}
+
+	body
+	{
+		min-width: 320px;
+	}
+}
+

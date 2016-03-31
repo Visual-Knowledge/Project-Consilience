@@ -1,0 +1,53 @@
+<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1459386769976">
+  <folder name="css">
+    <file name="site_global.css" crc="363544637"/>
+    <file name="master_main.css" crc="4030557427" ref="design:general:forum:blog:index:timeline:contact:development:mission:goals:post-001"/>
+    <file name="design.css" crc="457510756" ref="design"/>
+    <file name="general.css" crc="457510756" ref="general"/>
+    <file name="forum.css" crc="457510756" ref="forum"/>
+    <file name="blog.css" crc="457510756" ref="blog"/>
+    <file name="index.css" crc="457510756" ref="index"/>
+    <file name="timeline.css" crc="457510756" ref="timeline"/>
+    <file name="contact.css" crc="457510756" ref="contact"/>
+    <file name="development.css" crc="457510756" ref="development"/>
+    <file name="mission.css" crc="457510756" ref="mission"/>
+    <file name="goals.css" crc="457510756" ref="goals"/>
+    <file name="post-001.css" crc="457510756" ref="post-001"/>
+    <file name="nomq_preview_master_main.css" crc="4192180457" ref="design:general:forum:blog:index:timeline:contact:development:mission:goals:post-001"/>
+    <file name="nomq_design.css" crc="8391505" ref="design"/>
+    <file name="nomq_general.css" crc="8391505" ref="general"/>
+    <file name="nomq_forum.css" crc="8391505" ref="forum"/>
+    <file name="nomq_blog.css" crc="8391505" ref="blog"/>
+    <file name="nomq_index.css" crc="8391505" ref="index"/>
+    <file name="nomq_timeline.css" crc="8391505" ref="timeline"/>
+    <file name="nomq_contact.css" crc="8391505" ref="contact"/>
+    <file name="nomq_development.css" crc="8391505" ref="development"/>
+    <file name="nomq_mission.css" crc="8391505" ref="mission"/>
+    <file name="nomq_goals.css" crc="8391505" ref="goals"/>
+    <file name="nomq_post-001.css" crc="8391505" ref="post-001"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="484278746" ref="index:blog:mission:forum:timeline:goals:post-001:general:design:development:contact"/>
+    <file name="museutils.js" crc="531812214" ref="index:blog:mission:forum:timeline:goals:post-001:general:design:development:contact"/>
+    <file name="whatinput.js" crc="84559013" ref="index:blog:mission:forum:timeline:goals:post-001:general:design:development:contact"/>
+    <file name="jquery.watch.js" crc="3866665977" ref="index:blog:mission:forum:timeline:goals:post-001:general:design:development:contact"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="367458044" ref="index:blog:mission:forum:timeline:goals:post-001:general:design:development:contact"/>
+  </folder>
+  <folder name="images">
+    <file name="u477-6.png" crc="3893077589" ref="index:blog:mission:forum:timeline:goals:post-001:general:design:development:contact"/>
+    <file name="u481-4.png" crc="278387027" ref="index:blog:mission:forum:timeline:goals:post-001:general:design:development:contact"/>
+    <file name="blank.gif" crc="4208392903" ref="index:blog:mission:forum:timeline:goals:post-001:general:design:development:contact"/>
+  </folder>
+  <file name="index.html" crc="3874316138" seo="true" mt="1459386758101" redirect="true"/>
+  <file name="blog.html" crc="400832009" seo="true" mt="1459386758101" redirect="true"/>
+  <file name="mission.html" crc="51673837" seo="true" mt="1459386758101" redirect="true"/>
+  <file name="forum.html" crc="499594099" seo="true" mt="1459386758101" redirect="true"/>
+  <file name="timeline.html" crc="257939750" seo="true" mt="1459386758101" redirect="true"/>
+  <file name="goals.html" crc="4021610614" seo="true" mt="1459386758101" redirect="true"/>
+  <file name="post-001.html" crc="66813323" seo="true" mt="1459386758101" redirect="true"/>
+  <file name="general.html" crc="4135805835" seo="true" mt="1459386758101" redirect="true"/>
+  <file name="design.html" crc="4057138486" seo="true" mt="1459386758101" redirect="true"/>
+  <file name="development.html" crc="311326423" seo="true" mt="1459386758101" redirect="true"/>
+  <file name="contact.html" crc="4222213333" seo="true" mt="1459386758101" redirect="true"/>
+</manifest>
